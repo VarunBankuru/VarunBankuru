@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **COMSOL**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **VLSI**
 
 - 📫 How to reach me **varunbankuru142@gmail.com**
 
